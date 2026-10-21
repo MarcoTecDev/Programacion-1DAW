@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
